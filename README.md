@@ -1,10 +1,10 @@
 #ADI Churro - Project 01
 
 ##My Recipe Book
-<p align="center">
-<img style="padding: 10px" src="./Screenshots/homeactivity.png" width="200">
-<img style="padding: 10px" src="./Screenshots/addactivity.png" width="200">
-<img style="padding: 10px" src="./Screenshots/editactivity.png" width="200">
+<p align="left">
+<img style="padding: 100px" src="./Screenshots/homeactivity.png" width="200">
+<img style="padding: 100px" src="./Screenshots/addactivity.png" width="200">
+<img style="padding: 100px" src="./Screenshots/editactivity.png" width="200">
 </p>
 The screenshots above show the three activities of my app. These are the HomePage activity, AddItem activity and EditItem activity.
 
