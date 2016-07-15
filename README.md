@@ -2,9 +2,9 @@
 
 ##My Recipe Book
 <p align="center">
-<img src="./Screenshots/homeactivity.png" width="200">
-<img src="./Screenshots/addactivity.png" width="200">
-<img src="./Screenshots/editactivity.png" width="200">
+<img style="padding: 10px" src="./Screenshots/homeactivity.png" width="200">
+<img style="padding: 10px" src="./Screenshots/addactivity.png" width="200">
+<img style="padding: 10px" src="./Screenshots/editactivity.png" width="200">
 </p>
 The screenshots above show the three activities of my app. These are the HomePage activity, AddItem activity and EditItem activity.
 
