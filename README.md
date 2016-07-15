@@ -6,7 +6,9 @@
 <img style="padding: 100px" src="./Screenshots/addactivity.png" width="200">
 <img style="padding: 100px" src="./Screenshots/editactivity.png" width="200">
 </p>
-The screenshots above show the three activities of my app. These are the HomePage activity, AddItem activity and EditItem activity.
+The app is a virtual recipe book. User can document their favourite homemade meals, along with the required ingredients and a rating for future reference. 
+
+The screenshots above show the three activities of my app. These are the Home Screen (where users can view all of their recipes), the Add Item Screen (where users add new recipes) and the Edit Item Screen (where users can edit the rating, title, and ingredients for their recipe at a later date.
 
 To see a short video demonstration of my paper prototype, [click here.] (https://www.youtube.com/watch?v=YfShw1BgMKY)
 
