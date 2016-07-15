@@ -6,7 +6,9 @@
 <img src="./Screenshots/addactivity.png" width="200">
 <img src="./Screenshots/editactivity.png" width="200">
 </p>
-Add screenshots & description here. To see a short video demonstration of my paper prototype, [click here.] (https://www.youtube.com/watch?v=YfShw1BgMKY)
+The screenshots above show the three activities of my app. These are the HomePage activity, AddItem activity and EditItem activity.
+
+To see a short video demonstration of my paper prototype, [click here.] (https://www.youtube.com/watch?v=YfShw1BgMKY)
 
 ###Project Requirements
 #######
