@@ -2,7 +2,9 @@
 
 ##My Recipe Book
 <p align="center">
-<img src="./Screenshots/home_activity.png" width="200">
+<img src="./Screenshots/homeactivity.png" width="200">
+<img src="./Screenshots/addactivity.png" width="200">
+<img src="./Screenshots/editactivity.png" width="200">
 </p>
 Add screenshots & description here. To see a short video demonstration of my paper prototype, [click here.] (https://www.youtube.com/watch?v=YfShw1BgMKY)
 
